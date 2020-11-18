@@ -1,1 +1,1 @@
-# quizapp OF NAMAN AND RAHUL
+Quiz application for windows using java Swing and my sql
